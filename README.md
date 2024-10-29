@@ -7,4 +7,4 @@ This repository contains all the LLD designs that I have worked on and practiced
 ## 🛠️ Designs Covered
 
 - Tic-Tac-Toe Game
-- [New designs yet to come...]
+- Logger
